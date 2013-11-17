@@ -1,4 +1,4 @@
 graphcomp
 =========
 
-a collection of "compilers" that output graphs in DOT
+a collection of "compilers" that output graphs using Graphviz
